@@ -10,7 +10,6 @@ Also dangerously obsessed with SCP stuff (send help)
 
 ## 💻 What I Do
 - 🎮 Indie Unity Developer (i love ( HATE ) it)
-- 🧠 I have: **ASD** + **ADHD**  
 - 🛩 Aviation / Tank / Tech Enthusiast  
 - 🧪 Hobbyist Dev in:
   - **Python**  
@@ -57,6 +56,13 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 - Probably drawing random concepts at 5am
 
 ---
+
+## Linux (the exact reason im a virgin)
+
+
+i spent *WAY* too much time on this rice
+
+![R I C E](https://github.com/OhMyBat/OhMyBat/blob/main/screenshot_2025-11-16_11-24-24.png)
 
 ### 🫡 Until next commit...
 ok that’s all for now bye ig ✌️🙂
