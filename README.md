@@ -57,7 +57,7 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 ---
 
-## Linux (the exact reason im a virgin)
+## Linux (my new obsession)
 
 
 i spent *WAY* too much time on this rice
