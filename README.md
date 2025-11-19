@@ -62,6 +62,8 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 i spent *WAY* too much time on this rice
 
+## My lastest rice (as of this commit
+
 ![R I C E](https://github.com/OhMyBat/OhMyBat/blob/main/screenshot_2025-11-16_11-24-24.png)
 
 ### 🫡 Until next commit...
