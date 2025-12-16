@@ -25,13 +25,13 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 
 **Built With:**
-- Unity (~~HDRP~~ switched back to URP)  
-- Mirror for Networking  
-- Custom Systems, Lore, and uh...Cool Stuff™  
+- Unity HDRP
+- Mirror for Networking
+- Custom Systems, Lore, and uh... Stuff™  
 
 **Inspired By:**  
-- *SCP: Secret Laboratory (kinda, barely. like 2%)*  
-- *Late night YouTube dives + my brain at 4am on a weekend*   
+- *SCP: Secret Laboratory (kinda, barely. like 2%)*
+- SCP: Containment Breach (The OG)
 
 **Alpha Goal:**  
 🗓️ December 20, 2026 *(maybe... probably... we'll see)*  
