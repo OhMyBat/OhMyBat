@@ -9,7 +9,7 @@ Also dangerously obsessed with SCP stuff (send help)
 ---
 
 ## 💻 What I Do
-- 🎮 Indie Unity Developer (i love ( HATE ) it)
+- 🎮 Indie Unity Developer, i love ( HATE ) it
 - 🛩 Aviation / Tank / Tech Enthusiast  
 - 🧪 Hobbyist Dev in:
   - **Python**  
@@ -26,7 +26,7 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 **Built With:**
 - Unity HDRP
-- Mirror for Networking
+- ~~Mirror for Networking~~ Fishnet for Networking
 - Custom Systems, Lore, and uh... Stuff™  
 
 **Inspired By:**  
@@ -57,14 +57,6 @@ A round-based, casual multiplayer FPS where players *are* the SCPs.
 
 ---
 
-## Linux (my new obsession)
-
-
-i spent *WAY* too much time on this rice
-
-## My lastest rice (as of this commit)
-
-![R I C E](https://github.com/OhMyBat/OhMyBat/blob/main/screenshot_2025-11-21_17-45-32.png)
 
 ### 🫡 Until next commit...
 ok that’s all for now bye ig ✌️🙂
