@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif" alt="Konata gif" width="260">
+  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif" alt="konata gif" width="260">
 </p>
 
 <h1 align="center">hi hi!</h1>
@@ -9,19 +9,31 @@
 
 ## about me
 
-- i make games, tools, and random software stuff
-- mainly working with unity, blender, c++, c#, and python
-- i like building systems and figuring out how stuff works
-- currently working on facility havoc
+i'm a game developer and hard surface modeler who mostly works on game projects, technical systems, and random software ideas.
 
-## what i'm doing rn
+i spend most of my time working with unity, blender, c#, c++, and python.
 
-- facility havoc
-- game / engine experiments
+i like building systems that actually do something, especially when they involve gameplay, tools, ui, or behind-the-scenes logic.
+
+## what i'm into
+
+- game development
 - hard surface modeling
-- random dev tools
+- system design
+- dev tools
+- technical art stuff
+- experimenting with workflows and pipelines
 
-## tech i use
+## current focus
+
+right now i'm mainly working on **facility havoc** and other side projects related to games, systems, and tools.
+
+a lot of the stuff i make ends up somewhere between:
+- game project
+- technical experiment
+- "i was bored"
+
+## tools i use
 
 - unity
 - blender
@@ -29,4 +41,27 @@
 - c++
 - python
 - git
-- jetbrains stuff
+- jetbrains ide stuff
+
+## what you'll find here
+
+on my github you'll probably see:
+- game projects
+- prototypes
+- experiments
+- tools and utilities
+- random code i made because i wanted something specific and didn't feel like waiting for it to exist
+
+## extra
+
+i like working on both the technical side and the visual side of projects, so i usually bounce between coding, modeling, testing, and fixing things
+
+## featured stuff
+
+look at my pinned repos for the main projects i'm actively putting time into.
+
+## contact / links
+
+- github (already here): [@OhMyBat](https://github.com/OhMyBat)
+- discord: `bat_aviation`
+- more links later probably
