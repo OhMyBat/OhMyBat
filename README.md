@@ -26,7 +26,7 @@ i like making things that actually do something, especially game systems, ui, to
 
 right now i'm mainly working on **facility havoc**.
 
-facility havoc (aka **AFM-453: Facility Havoc**) is a round-based multiplayer game set inside a research facility where containment has failed and everything is going wrong.
+facility havoc (aka **AFM-453: Facility Havoc**) is a round-based multiplayer game set inside a research and development facility where containment has failed and everything is going wrong.
 
 players spawn as different roles in the facility, like security, scientists, prisoners, anomalies, and other stuff. depending on your role, your objective changes.
 
