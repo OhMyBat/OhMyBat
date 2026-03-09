@@ -30,7 +30,7 @@ facility havoc (aka **AFM-453: Facility Havoc**) is a round-based multiplayer ga
 
 players spawn as different roles in the facility, like security, scientists, prisoners, anomalies, and other stuff. depending on your role, your objective changes.
 
-it's inspired by facility-style multiplayer games, but i'm not trying to make a **SCP: Secret Laboratory clone** or anything like that.
+it's inspired by facility-style multiplayer games, but i'm not trying to make a SCP: Secret Laboratory clone and call it a day.
 
 the goal is to make FH feel like its own game with its own mechanics, style, atmosphere, and ideas.
 
