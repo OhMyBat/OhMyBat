@@ -26,11 +26,11 @@ i like making things that actually do something, especially game systems, ui, to
 
 right now i'm mainly working on **facility havoc**.
 
-facility havoc (aka **AFM-453: Facility Havoc**) is a round-based multiplayer game set inside a research and development facility where containment has failed and everything is going wrong.
+facility havoc (aka **AFM-453: Facility Havoc**) is a round-based sandbox multiplayer game set inside a research and development facility where containment has failed and everything has gone to crap
 
 players spawn as different roles in the facility, like security, scientists, prisoners, anomalies, and other stuff. depending on your role, your objective changes.
 
-it's inspired by facility-style multiplayer games, but i'm not trying to make a SCP: Secret Laboratory clone and call it a day.
+it's inspired by facility-style multiplayer games.
 
 the goal is to make FH feel like its own game with its own mechanics, style, atmosphere, and ideas.
 
@@ -53,25 +53,6 @@ currently in development.
 
 right now it's mostly in the modeling stage. i'd rather make good models now than rush a bunch of bad or placeholder ones and redo them later.
 
-## gamemodes planned
-
-these are very rough and can change a lot.
-
-- **breach mode**  
-  the main mode and the base of the game. this is the big facility round with all the different roles and chaos.  
-  **rough estimate:** 2026
-
-- **extra side modes**  
-  smaller modes that let FH do more than just the main breach round.  
-  **rough estimate:** 2027
-
-- **event / experimental modes**  
-  more specific or weird ideas that don't have to follow the normal round flow as much.  
-  **rough estimate:** 2027 to 2028
-
-- **bigger future modes**  
-  longer-term ideas that help FH stand out more and become more than just "the facility breach game."  
-  **rough estimate:** later on / tbd
 
 ## what's planned
 
