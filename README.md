@@ -14,55 +14,75 @@
 
 i'm a game developer and hard surface modeler.
 
-i mostly work on games, gameplay systems, random software ideas, and other technical stuff.
+i mostly make games, random software stuff, and tools when i need something specific.
 
 i spend most of my time using unity, blender, c#, c++, c, and python :D
 
-i also use linux, and sometimes i make tools or utilities for it when i want something specific and it doesn't already exist.
-
-i like making things that actually do something, especially game systems, ui, tools, and stuff under the hood.
+i also use linux, and sometimes i make tools or utilities for that too.
 
 ## current focus
 
 right now i'm mainly working on **facility havoc**.
 
-facility havoc (aka **AFM-453: Facility Havoc**) is a round-based sandbox multiplayer game set inside a research and development facility where containment has failed and everything has gone to crap
+facility havoc (aka **AFM-453: Facility Havoc**) is a sandbox multiplayer game set inside a research and development facility.
 
-players spawn as different roles in the facility, like security, scientists, prisoners, anomalies, and other stuff. depending on your role, your objective changes.
+instead of every round starting in a full breach, the facility starts off normal and players are dropped into an actual shift with different roles.
 
-it's inspired by facility-style multiplayer games.
+you can do your job, ignore it, explore, help people, sabotage things, or start causing problems.
 
-the goal is to make FH feel like its own game with its own mechanics, style, atmosphere, and ideas.
+as players mess with the facility more and more, things can slowly spiral into a full-on disaster.
+
+it's inspired by facility-style multiplayer games
+
+my goal is for FH to make it feel like its own :D
 
 ## the loop
 
-each round starts with players spread across the facility.
+each round starts during a normal shift.
 
-from there, the round changes depending on what players do:
-- escape the facility
-- secure the situation
-- help their team
-- hunt other players
-- or just make everything worse
+players spawn around the facility as different roles, and what happens next depends on what people do.
 
-the point is that rounds aren't supposed to play out the exact same every time.
+you can:
+- explore
+- do your role
+- help your team
+- mess with the facility
+- make bad decisions
+- or just cause chaos on purpose
+
+some rounds stay under control for a while.
+
+some rounds completely fall apart.
 
 ## status
 
 currently in development.
 
-right now it's mostly in the modeling stage. i'd rather make good models now than rush a bunch of bad or placeholder ones and redo them later.
+right now it's mostly in the modeling stage because i'd rather make stuff that actually fits the game than rush placeholder models and redo them later.
 
+## proposed gamemodes
+
+these are very rough and can change a lot.
+
+- **shift mode**  
+  the main mode. starts as a normal facility shift and can slowly turn into chaos depending on what players do.  
+  **rough estimate:** early/late 2026
+
+- **breach mode**  
+  a more direct mode where things are already going wrong and players are thrown straight into the mess  
+  **rough estimate:** 2027
+
+- **other modes / event modes**  
+  smaller, weirder, or more specific modes outside the main loop.  
+  **rough estimate:** 2027+
 
 ## what's planned
 
-over time i want facility havoc to become more than just one mode.
-
-stuff planned for the future includes:
+stuff i want to add over time:
 - more role variety
 - better atmosphere and facility immersion
-- more things that make rounds less predictable
-- more modes outside of breach mode
+- more ways for rounds to go off the rails
+- more modes outside the main one
 - more stuff that helps FH stand on its own
 
 ## what you'll find here
@@ -73,15 +93,15 @@ on my github you'll probably see:
 - experiments
 - tools and utilities
 - linux-related stuff
-- random code i made because i wanted something specific and didn't feel like waiting for it to exist
+- random code i made because i wanted something and didn't feel like waiting for it to exist
 
 ## extra
 
-i like working on both the technical side and the visual side of projects, so i usually bounce between coding, modeling, testing, fixing things, and sometimes making tools when i need them :D
+i do both the visual side and the coding side of projects, so i usually end up bouncing between modeling, scripting, testing, and fixing stuff :D
 
 ## featured stuff
 
-look at my pinned repos for the main projects i'm actively working on.
+look at my pinned repos for the main things i'm actively working on.
 
 ## contact / links
 
